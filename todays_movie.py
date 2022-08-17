@@ -16,7 +16,7 @@ def printWatched():
 
 def genMovie():
 	# Get number of total movies
-	input_file = open("movies.txt")
+	input_file = open("movies.txt",encoding='utf8')
 	total_num_movies = len(input_file.readlines())
 	input_file.close()
 

@@ -1,6 +1,6 @@
 import numpy
 
-input_file = open("movies.txt") # Reopen movies file in case a change has been made
+input_file = open("movies.txt",encoding='utf8') # Reopen movies file in case a change has been made
 movies = []
 # Fill movies array with title(year) of movies in list
 for line in input_file:
