@@ -5,4 +5,4 @@ which are planned to be added to reflect every movie that has ever been included
 
 # Changes 2 made
 
-I'd like to make a streamer that helps you reach and view these movies (the 1001 list movies) easily.
+I'd like to make a streamer script/platform that helps you reach and view these movies (the 1001 list movies) easily.
